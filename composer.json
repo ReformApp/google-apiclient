@@ -14,7 +14,7 @@
         }
     ],
     "replace": {
-        "pulkitjalan/google-apiclient": "5.0.0"
+        "pulkitjalan/google-apiclient": "^5.0"
     },
     "require": {
         "php": "^7.2|^8.1",
